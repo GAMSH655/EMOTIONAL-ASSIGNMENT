@@ -27,7 +27,7 @@ const emotionalArray = [
            AuthorName: "Ajibola mustopah"
     },
     {
-        imageUrl:"./assets/pray.avif",
+          imageUrl:"./assets/pray.avif",
           loveText:"What God gives us,he gave you too,what he Gave them he gave you too,If you don’t see it work towards it and if you don’t get it keep trying because the success is near.Feel it and keep  ,It’s your time to  shine ",
            AuthorName: "Ajibola mustopah"
     },
